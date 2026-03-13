@@ -67,25 +67,25 @@ This project demonstrates **multi-agent orchestration, long-context memory, and 
 ## 📸 Screenshots
 
 #### High-level Project Structure
-![App Screenshot Placeholder](images/project.png)
+![App Screenshot Placeholder](Images/project.png)
 
 #### Store requirements page
-![App Screenshot Placeholder](images/store_req.png)
+![App Screenshot Placeholder](Images/store_req.png)
 
 #### Search requirements page
-![App Screenshot Placeholder](images/search_req.png)
+![App Screenshot Placeholder](Images/search_req.png)
 
 #### Browse requirements page
-![App Screenshot Placeholder](images/browse_req.png)
+![App Screenshot Placeholder](Images/browse_req.png)
 
 #### Azure Container registry
-![App Screenshot Placeholder](images/ACR.png)
+![App Screenshot Placeholder](Images/ACR.png)
 
 #### Azure App Service Plan
-![App Screenshot Placeholder](images/azure_app_service_plan.png)
+![App Screenshot Placeholder](Images/azure_app_service_plan.png)
 
 #### Azure Web-App
-![App Screenshot Placeholder](images/azure_web_app.png)
+![App Screenshot Placeholder](Images/azure_web_app.png)
 
 --- 
 
