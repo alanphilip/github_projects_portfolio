@@ -1,0 +1,16 @@
+# Exclude pycache
+__pycache__/
+
+# Exclude intellij files
+.idea/
+
+# Exclude environment files
+.venv/
+
+# Exclude env files
+.env
+
+# Exclude files and dir's
+notes.txt
+*.json
+*.xml
