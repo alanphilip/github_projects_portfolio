@@ -104,11 +104,6 @@ Benchmarked the Multi-Agent PDLC Assistant against a manual baseline to measure 
 
 --- 
 
-## 🤝 Contributions
-- Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to add.
-
---- 
-
 ## 🌟 Why This Project?
 - This project showcases agentic AI applied to PDLC innovation, demonstrating skills in:
   - Multi-agent orchestration 
