@@ -44,7 +44,8 @@ Recruiters or collaborators can request access by contacting me directly.
 
 ---
 
-## 📬 Contact
-- **Author:** Alan Philip
-- **Email:** [alanphilip28@gmail.com]
-- **LinkedIn:** [http://www.linkedin.com/in/alanphilip1998]  
+| Author         | **Alan Philip** |
+|:---------------| :--- |
+| **Role**       | Lead Researcher / CS Master's Student |
+| **Links**      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/alanphilip1998) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alanphilip/) |
+| **Contact**    | alanphilip28@gmail.com |
