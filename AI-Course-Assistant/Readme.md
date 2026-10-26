@@ -26,6 +26,10 @@ Rather than relying solely on a large language model's internal knowledge, the a
 
 This approach minimizes hallucinations and ensures that answers are based on actual course materials.
 
+![App Screenshot Placeholder](Images/ai_foundry.png)
+
+![App Screenshot Placeholder](Images/resource_group.png)
+
 ---
 
 ## 🎯 Project Goals
@@ -159,7 +163,10 @@ Used for:
 ---
 
 ### Embedding Model
+![App Screenshot Placeholder](Images/Knowledge_base.png)
+
 ```text
+
 text-embedding-3-large
 ```
 Used for:
@@ -233,15 +240,9 @@ instead of searching for keywords.
 
 ## Source Attribution
 
-Every answer includes supporting sources.
+Supporting sources.
 
-Example:
-
-```text
-Sources
-
-- Fall-25-CIS-5210-Artificial-Intelligence-Syllabus.pdf
-```
+![App Screenshot Placeholder](Images/blob_container.png)
 
 ---
 
@@ -373,6 +374,7 @@ Result:
 Documents Indexed: 8
 Errors: 0
 ```
+![App Screenshot Placeholder](Images/Indexer.png)
 
 ---
 
@@ -419,6 +421,7 @@ Example Queries & Response:
 
 ![App Screenshot Placeholder](Images/App.png)
 
+![App Screenshot Placeholder](Images/Analytics.png)
 
 # 👨‍💻 Author
 
