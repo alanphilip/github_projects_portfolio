@@ -1,20 +1,6 @@
 # 🎓 Penn Engineering AI Course Assistant
 
-<div align="center">
-
-[//]: # (https://img.shields.io/badge/Azure-AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure)
-
-[//]: # (https://img.shields.io/badge/Azure-AI%20Search-0099CC?style=for-the-badge)
-
-[//]: # (https://img.shields.io/badge/Azure-OpenAI-412991?style=for-the-badge)
-
-[//]: # (https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-green?style=for-the-badge)
-
-[//]: # (https://img.shields.io/badge/GPT-5%20Mini-Powered-orange?style=for-the-badge)
-
 ### An AI-powered academic assistant built using Azure AI Foundry, Azure AI Search, and Azure OpenAI
-
-</div>
 
 ---
 
