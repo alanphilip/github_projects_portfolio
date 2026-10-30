@@ -418,6 +418,6 @@ University of Pennsylvania
 
 https://www.linkedin.com/in/alanphilip1998
 
-Demo link: https://www.youtube.com/watch?v=Gcozc7iwwrM&list=PLX454XHhWCYw&index=2&t=258s
+Youtube Demo link: https://www.youtube.com/watch?v=Gcozc7iwwrM&list=PLX454XHhWCYw&index=2&t=258s
 
 ⭐ If you found this project interesting, please consider starring this repository.
