@@ -12,9 +12,9 @@ Rather than relying solely on a large language model's internal knowledge, the a
 
 This approach minimizes hallucinations and ensures that answers are based on actual course materials.
 
-![App Screenshot Placeholder](Images/ai_foundry.png)
+![App Screenshot Placeholder](Screenshots/azure_foundry.png)
 
-![App Screenshot Placeholder](Images/resource_group.png)
+![App Screenshot Placeholder](Screenshots/resource_group.png)
 
 ---
 
@@ -134,7 +134,7 @@ The assistant indexes and retrieves information from:
 
 ## Models Used
 
-![App Screenshot Placeholder](Images/foundry_models.png)
+![App Screenshot Placeholder](Screenshots/foundry_models.png)
 
 ### Chat Model
 ```text
@@ -149,7 +149,7 @@ Used for:
 ---
 
 ### Embedding Model
-![App Screenshot Placeholder](Images/Knowledge_base.png)
+![App Screenshot Placeholder](Screenshots/Knowledge_base.png)
 
 ```text
 
@@ -212,7 +212,7 @@ Answers are grounded in uploaded course materials rather than generated solely f
 ---
 
 ## Semantic Search
-![App Screenshot Placeholder](Images/AI_search.png)
+![App Screenshot Placeholder](Screenshots/AI_search.png)
 
 Users can ask questions naturally:
 
@@ -228,7 +228,7 @@ instead of searching for keywords.
 
 Supporting sources.
 
-![App Screenshot Placeholder](Images/blob_container.png)
+![App Screenshot Placeholder](Screenshots/blob_container.png)
 
 ---
 
@@ -360,7 +360,7 @@ Result:
 Documents Indexed: 8
 Errors: 0
 ```
-![App Screenshot Placeholder](Images/Indexer.png)
+![App Screenshot Placeholder](Screenshots/Indexer.png)
 
 ---
 
@@ -405,9 +405,9 @@ Errors: 0
 
 Example Queries & Response:
 
-![App Screenshot Placeholder](Images/App.png)
+![App Screenshot Placeholder](Screenshots/App.png)
 
-![App Screenshot Placeholder](Images/Analytics.png)
+![App Screenshot Placeholder](Screenshots/Analytics.png)
 
 # 👨‍💻 Author
 
